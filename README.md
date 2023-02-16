@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Garrett
-- 👀 I’m interested in Cyber Security and DevSecOps
+- 👀 I’m interested in Cybersecurity and DevSecOps
 - 🌱 I’m currently working on my Security+ and CISSP certs
 
 <!---
