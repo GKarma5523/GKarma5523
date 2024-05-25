@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Garrett
 - 👀 I’m interested in Cybersecurity and DevSecOps
-- 🌱 I’m currently working on my Security+ and CISSP certs
+- 🌱 I’m currently have my Security+ and working on my CISSP cert
 
 <!---
 GKarma5523/GKarma5523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
